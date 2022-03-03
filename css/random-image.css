@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+
+ul#random-image li {
+	list-style-type: none;
+	display: none;
+}
+
+
+
+
